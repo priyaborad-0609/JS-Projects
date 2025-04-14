@@ -1,36 +1,20 @@
-⏱️ Stopwatch App - GitHub Repository Description
+🔔 Notification App - GitHub Repository Description
 
-A sleek and responsive stopwatch application built with HTML, CSS, and JavaScript that allows users to track time with precision. ⚡
+A sleek, customizable notification system built with HTML, CSS, and JavaScript that displays toast-style alerts. Perfect for web apps! ✨
 
-� Features
+🌟 Key Features
 
-✅ Start, Pause, and Reset functionality
+🔘 Multiple notification types (Success ✅, Error ❌, Warning ⚠️, Info ℹ️)
 
-✅ Lap Time recording to track splits
+🔘 Auto-dismiss after customizable delay ⏳
 
-✅ Smooth animations and transitions
+🔘 Position control (Top/Bottom + Left/Right/Center) 📍
 
-✅ Mobile-friendly design (works on all devices 📱💻)
+🔘 Smooth animations with CSS transitions 🎬
 
-✅ Clean UI with intuitive controls
+🔘 Mobile-responsive design 📱💻
 
-🛠️ Technologies Used
-
-HTML5 for structure
-
-CSS3 for styling (Flexbox & animations)
-
-JavaScript for logic and interactivity
-
-� How It Works
-
-Start ▶️ - Begins the timer.
-
-Pause ⏸️ - Temporarily stops the timer.
-
-Reset 🔄 - Clears the timer and laps.
-
-Lap ⏱️ - Records the current time while the stopwatch runs.
+🔘 No dependencies - Pure vanilla JS ⚡
 
 #WebDev #Frontend #JavaScriptProjects
 
